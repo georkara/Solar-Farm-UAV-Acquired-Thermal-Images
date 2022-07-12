@@ -1,1 +1,1 @@
-# Solar-Farm-UAV-Acquired-Thermal-Images-
+# Solar-Farm-UAV-Acquired-Thermal-Images
