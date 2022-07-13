@@ -18,6 +18,9 @@ and description.
 ## PV Module Faults
 Different photovoltaic faults are given indicatively below:
 
+Type 1: Hot spot(s) due to glass breakage/shattered glass  
+Type 2: PV module with one inactive(open-circuited) submodule, due to a bypass diode failure.
+
 
 ## Visualizations
 Indicatively examples of the dataset.
@@ -50,10 +53,6 @@ Indicatively examples of the dataset.
 
  **Figure 2.** Different captures of the same fault: _Type 2_.
 
-
-Fault Types:
-Type 1: Hot spot(s) due to glass breakage/shattered glass  
-Type 2: PV module with one inactive(open-circuited) submodule, due to a bypass diode failure.
 
 
 
