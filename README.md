@@ -27,7 +27,7 @@ __Type 3__: Open-circuited module
 
 
 ## Visualizations
-Indicatively examples of the dataset.
+Indicative examples of the dataset.
 
 
 
@@ -44,6 +44,17 @@ Indicatively examples of the dataset.
 
  **Figure 1.** Different captures of the same fault: _Type 1_.
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 <table class="center">
   <tr class="center">
@@ -57,6 +68,18 @@ Indicatively examples of the dataset.
 
  **Figure 2.** Different captures of the same fault: _Type 2_.
 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 <table class="center">
   <tr class="center">
       <td><img src="https://user-images.githubusercontent.com/80331436/178674372-09507f3c-23d8-4672-8218-52df22bb12ef.JPG" width=160 height=120<td>
@@ -66,6 +89,17 @@ Indicatively examples of the dataset.
 
  **Figure 3.** Example of fault: _Type 3_.
 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <table class="center">
   <tr class="center">
