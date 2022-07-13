@@ -16,7 +16,7 @@ for the enhancement of the dataset's general perspective
 and description.
 
 ## PV Module Faults
-Different photovoltaic faults are given indicatively below:
+Different photovoltaic faults are identified:
 
 
 __Type 1__: Hot spot(s) due to glass breakage - shattered glass.  
@@ -27,10 +27,9 @@ __Type 3__: Open-circuited module
 
 
 ## Visualizations
-Indicative examples of the dataset.
+Indicative visual examples of the dataset are given:
 
-
-
+### &nbsp; __Type 1__
 <table class="center">
   <tr class="center">
       <td><img src="https://user-images.githubusercontent.com/80331436/178597276-0f2e3fb3-506e-4fb7-a730-31a9a1f526b9.JPG" width=160 height=120<td>
@@ -42,8 +41,7 @@ Indicative examples of the dataset.
 
 </table>
 
- **Figure 1.** Different captures of the same fault: _Type 1_.
-
+**Figure 1.** Different captures of the same fault: __Type 1__.
 &nbsp;
 &nbsp;
 &nbsp;
@@ -54,7 +52,7 @@ Indicative examples of the dataset.
 &nbsp;
 &nbsp;
 &nbsp;
-
+### &nbsp; __Type 2__
 
 <table class="center">
   <tr class="center">
@@ -66,9 +64,7 @@ Indicative examples of the dataset.
 
 </table>
 
- **Figure 2.** Different captures of the same fault: _Type 2_.
-
-
+ **Figure 2.** Different captures of the same fault: __Type 2__.
 &nbsp;
 &nbsp;
 &nbsp;
@@ -79,6 +75,7 @@ Indicative examples of the dataset.
 &nbsp;
 &nbsp;
 &nbsp;
+### &nbsp; __Type 3__
 
 <table class="center">
   <tr class="center">
@@ -87,19 +84,8 @@ Indicative examples of the dataset.
 
 </table>
 
- **Figure 3.** Example of fault: _Type 3_.
+ **Figure 3.** Example of fault: __Type 3__.
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 <table class="center">
   <tr class="center">
@@ -111,10 +97,16 @@ Indicative examples of the dataset.
 
 </table>
 
- **Figure 4.** Different day captures of fault presented in _Figure 3_, with also different
+ **Figure 4.** Different day captures of fault presented in _Figure 3_ (__Type 3__), with also different
  camera configuration settings.
-
-
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+### &nbsp; __Type 4__
