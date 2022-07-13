@@ -42,6 +42,7 @@ Indicative visual examples of the dataset are given:
 </table>
 
 **Figure 1.** Different captures of the same fault: __Type 1__.
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -52,6 +53,7 @@ Indicative visual examples of the dataset are given:
 &nbsp;
 &nbsp;
 &nbsp;
+
 ### &nbsp; __Type 2__
 
 <table class="center">
@@ -65,6 +67,7 @@ Indicative visual examples of the dataset are given:
 </table>
 
  **Figure 2.** Different captures of the same fault: __Type 2__.
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -99,6 +102,7 @@ Indicative visual examples of the dataset are given:
 
  **Figure 4.** Different day captures of fault presented in _Figure 3_ (__Type 3__), with also different
  camera configuration settings.
+
 &nbsp;
 &nbsp;
 &nbsp;
