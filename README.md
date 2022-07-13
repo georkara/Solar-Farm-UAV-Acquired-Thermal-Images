@@ -18,8 +18,12 @@ and description.
 ## PV Module Faults
 Different photovoltaic faults are given indicatively below:
 
-Type 1: Hot spot(s) due to glass breakage/shattered glass  
-Type 2: PV module with one inactive(open-circuited) submodule, due to a bypass diode failure.
+
+__Type 1__: Hot spot(s) due to glass breakage - shattered glass.  
+
+__Type 2__: PV module with one inactive (open-circuited) submodule, due to a bypass diode failure.
+
+__Type 3__: Open-circuited module
 
 
 ## Visualizations
@@ -52,6 +56,29 @@ Indicatively examples of the dataset.
 </table>
 
  **Figure 2.** Different captures of the same fault: _Type 2_.
+
+<table class="center">
+  <tr class="center">
+      <td><img src="https://user-images.githubusercontent.com/80331436/178674372-09507f3c-23d8-4672-8218-52df22bb12ef.JPG" width=160 height=120<td>
+      <td><img src="https://user-images.githubusercontent.com/80331436/178674396-6016fb59-0617-44eb-b994-f0bfc229295f.JPG" width=160 height=120<td></tr>
+
+</table>
+
+ **Figure 3.** Example of fault: _Type 3_.
+
+
+<table class="center">
+  <tr class="center">
+      <td><img src="https://user-images.githubusercontent.com/80331436/178676139-750c3aea-338d-4f3c-990b-77d92e281571.JPG" width=160 height=120<td>
+      <td><img src="https://user-images.githubusercontent.com/80331436/178675393-f918cdeb-eff1-475b-8c3f-e4a23cce4e2f.JPG" width=160 height=120<td>
+      <td><img src="https://user-images.githubusercontent.com/80331436/178675452-9d4c03dc-aed4-4f86-b7e6-f14db5f51248.JPG" width=160 height=120<td></tr>
+      <td><img src="https://user-images.githubusercontent.com/80331436/178676744-5058fc65-8db9-45e2-9b1c-f0337a5aa123.JPG" width=160 height=120<td>
+      <td><img src="https://user-images.githubusercontent.com/80331436/178676776-317dcbf0-a70b-43ab-92ad-5b1af4f846ce.JPG" width=160 height=120<td>
+
+</table>
+
+ **Figure 4.** Different day captures of fault presented in _Figure 3_, with also different
+ camera configuration settings.
 
 
 
