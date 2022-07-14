@@ -1,7 +1,7 @@
 # Solar Farm UAV Acquired Thermal Images
 This is an ongoing project dedicated to creating a comprehensive dataset of thermal images acquired from the DJI Mavic 2 Enterprise Dual drone with a thermal resolution of 160 x 120 px.
 
-Please note that the PV module faults that would be presented below are unlabeled
+Please note that the PV module faults that would be presented below are not annotated
 at this phase, while also no supplementary in-situ/on field measurements have been gathered
 to verify the human identified PV module faults.
 
