@@ -127,6 +127,6 @@ Indicative visual examples of the dataset are given:
 
 </table>
 
-**Figure 5.** Different day captures of fault presented in _Figure 3_ (__Type 3__), with also different
+**Figure 5.** Different day captures of fault presented in _Figure 3_ (__Type 4__), with also different
  camera configuration settings.
 
